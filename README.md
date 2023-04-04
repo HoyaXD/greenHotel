@@ -10,6 +10,7 @@ Toolkit: KakaoMap
 - 프로젝트 일정
     
     ![일정.png](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/%25EC%259D%25BC%25EC%25A0%2595.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2dc0e23d-7e20-4172-8b26-6e905e52948d/Untitled.png)
     
 - 유즈케이스 다이어그램
     
