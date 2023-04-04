@@ -1,11 +1,6 @@
 # 🏬 호텔 예약 프로그램
 
-Back-end: Apache Tomcat, MariaDB, eclipse
-Front-end: AJAX, CSS, HTML, JS
-Toolkit: KakaoMap
 날짜: 2023년 1월 11일 → 2023년 1월 15일
-사람: 호영 이
-상태: 완료
 
 - 프로젝트 일정
     ![%EC%9D%BC%EC%A0%95](https://user-images.githubusercontent.com/116658760/229668366-ffb2204f-d614-47b3-9dc2-a3b43bd69431.png)
