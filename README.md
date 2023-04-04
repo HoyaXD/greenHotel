@@ -8,43 +8,26 @@ Toolkit: KakaoMap
 상태: 완료
 
 - 프로젝트 일정
-    
-    ![%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4](https://user-images.githubusercontent.com/116658760/229668235-c0354c2f-885b-4b0a-b887-a929b59a552b.png)
+    ![%EC%9D%BC%EC%A0%95](https://user-images.githubusercontent.com/116658760/229668366-ffb2204f-d614-47b3-9dc2-a3b43bd69431.png)
     
 - 유즈케이스 다이어그램
-    
-    ![호텔 유즈케이스.png](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/%25ED%2598%25B8%25ED%2585%2594_%25EC%259C%25A0%25EC%25A6%2588%25EC%25BC%2580%25EC%259D%25B4%25EC%258A%25A4.png)
-    
+    ![%ED%98%B8%ED%85%94_%EC%9C%A0%EC%A6%88%EC%BC%80%EC%9D%B4%EC%8A%A4](https://user-images.githubusercontent.com/116658760/229668412-b4ff74e6-d4b9-4c4f-88f4-b3e8578b618c.png)
+
 - 테이블 명세서
-    - 회원 테이블
-        
-        ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled.png)
-        
-    - 관리자 테이블
-        
-        ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%201.png)
-        
-    - 예약 테이블
-        
-        ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%202.png)
-        
-    - 문의 테이블
-        
-        ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%203.png)
-        
-    - 문의 답변 테이블
-        
-        ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%204.png)
-        
+![Untitled](https://user-images.githubusercontent.com/116658760/229668797-5452c3ce-7b73-4dfb-b909-660d46682e32.png)
+![Untitled 1](https://user-images.githubusercontent.com/116658760/229668808-5acc3a91-dc44-4acf-8c6b-4a3869fe1094.png)
+![Untitled 2](https://user-images.githubusercontent.com/116658760/229668810-a655e146-60b1-486a-b26e-aa1c332ce82b.png)
+![Untitled 3](https://user-images.githubusercontent.com/116658760/229668815-de391c6b-d79d-4b2a-9db9-0dfb674ba44e.png)
+![Untitled 4](https://user-images.githubusercontent.com/116658760/229668816-12ba110a-e5b8-4f34-8a85-ce75064afb70.png)
+
 - 메뉴 구조
     - 회원 메뉴
-        
-        ![회원메뉴.png](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/%25ED%259A%258C%25EC%259B%2590%25EB%25A9%2594%25EB%2589%25B4.png)
-        
+        ![%ED%9A%8C%EC%9B%90%EB%A9%94%EB%89%B4](https://user-images.githubusercontent.com/116658760/229668871-3ac8142d-d98d-4814-8284-b7c011883458.png)
+
+
     - 관리자 메뉴
-        
-        ![관리자메뉴.png](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/%25EA%25B4%2580%25EB%25A6%25AC%25EC%259E%2590%25EB%25A9%2594%25EB%2589%25B4.png)
-        
+    ![%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4](https://user-images.githubusercontent.com/116658760/229668886-ed9dc241-b500-4fdf-9def-1b7bf11bd6a6.png)
+
 - 프로그램 시연 사진 및 설명
     
     
@@ -52,27 +35,29 @@ Toolkit: KakaoMap
     
            —  깔끔하고 편하게 쉴 수 있는 느낌을 주고 싶어 서 아래와 같이 구성해보았습니다.
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%205.png)
-    
+    ![Untitled 5](https://user-images.githubusercontent.com/116658760/229669007-5ac1ddb3-8aef-46a4-be66-96cb663b1ff8.png)
+
     - 메뉴
     
            — 마우스호버를 사용하여 무엇을 선택하는지 반응형 메뉴 구성하였습니다.
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/116658760/229669032-6c276a14-05e1-4788-b824-b922f82b661f.png)
+
     
     - 회원가입
     
            — 각 항목별로 유효성 검사를 실시하였으며, 중복 확인 또한 가능합니다.
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%207.png)
-    
+    ![Untitled 7](https://user-images.githubusercontent.com/116658760/229669040-2d40ce07-6025-4efc-8377-c26af07df450.png)
+
+ 
     - 로그인
     
            — 로그인 또한 유효성 검사를 실시하였으며, 로그인 성공 시 session에 값을 저장하여     
     
                메뉴가 변경됩니다
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%208.png)
+    ![Untitled 8](https://user-images.githubusercontent.com/116658760/229669067-a5c3223d-d1a8-4b77-94a3-32223db29649.png)
+
+ 
     
     - 예약 페이지
     
@@ -82,7 +67,8 @@ Toolkit: KakaoMap
     
               나오게 됩니다.
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%209.png)
+    ![Untitled 9](https://user-images.githubusercontent.com/116658760/229669073-0ff15073-c308-4c99-a223-397d537cf5d8.png)
+
     
      
     
@@ -96,19 +82,14 @@ Toolkit: KakaoMap
     
      
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2010.png)
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2011.png)
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2012.png)
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2013.png)
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2014.png)
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2015.png)
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2016.png)
+   ![Untitled 10](https://user-images.githubusercontent.com/116658760/229669108-1559689d-562b-4d0b-ad71-80a19079338d.png)
+![Untitled 11](https://user-images.githubusercontent.com/116658760/229669113-5c182d7d-2c8d-4e81-ad76-3c943b5dff7f.png)
+![Untitled 12](https://user-images.githubusercontent.com/116658760/229669117-cf25d1b5-1ad8-4ed6-a877-b7af5d0e5186.png)
+![Untitled 13](https://user-images.githubusercontent.com/116658760/229669119-c1329d4f-e769-45a1-b41b-63c76fd0da77.png)
+![Untitled 14](https://user-images.githubusercontent.com/116658760/229669123-122a2b08-297b-432d-8996-35c9c75860cd.png)
+![Untitled 15](https://user-images.githubusercontent.com/116658760/229669126-75c76797-9c59-4b78-879e-9fa2c35a14e9.png)
+![Untitled 16](https://user-images.githubusercontent.com/116658760/229669128-e7bd0f50-5cd3-4bf1-bb62-55c4836be37d.png)
+
     
     - 고객 문의
     
@@ -116,33 +97,35 @@ Toolkit: KakaoMap
     
                구현하였습니다.
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2017.png)
-    
+    ![Untitled 17](https://user-images.githubusercontent.com/116658760/229669163-a6fdf21e-1537-4296-9988-0e07219ddf2e.png)
+
     - 찾아오시는 길
     
           — kakao map API를 사용하여 호텔 위치를 마커로 표시하였습니다.
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2018.png)
+   ![Untitled 18](https://user-images.githubusercontent.com/116658760/229669184-860a84a2-f5a3-42bf-b219-7a47470767a0.png)
+
     
     - 관리자 예약 관리
     
            — 필요한 간단한 정보들을 출력해보았습니다.
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2019.png)
-    
+    ![Untitled 19](https://user-images.githubusercontent.com/116658760/229669195-00508bf3-30bd-43ee-a315-3b2fb1d93768.png)
+
     - 회원 관리
     
           — Ajax를 활용하여 비동기 방식을 통해 회원 목록을 출력하였습니다.
+    ![Untitled 20](https://user-images.githubusercontent.com/116658760/229669226-38bbc963-97ae-4ade-82be-346839121285.png)
+
     
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2020.png)
     
     - 문의 답변
     
            — 문의에 대한 내용이 출력되며 답변을 누르면 답변 폼에 자동으로 
     
                문의글 번호와 작성한 ID가 들어가며, 제목과 내용을 입력하면 등록됩니다.
-    
-    ![Untitled](%F0%9F%8F%AC%20%E1%84%92%E1%85%A9%E1%84%90%E1%85%A6%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%2072347fe6f4944804b6e54d6e720bbc8c/Untitled%2021.png)
+    ![Untitled 21](https://user-images.githubusercontent.com/116658760/229669263-6ea62dcc-c5be-450e-82d0-0cb4b9bfcaa7.png)
+
+   
     
 
 <aside>
